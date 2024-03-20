@@ -39,5 +39,5 @@ To install Orbit Council, follow these simple steps:
 ## Links
 
 - [Live Demo](https://orbit-council.netlify.app)
-- [Front-End Repository](https://github.com/shohan-pherones/orbit-council-client)
-- [Back-End Repository](https://github.com/shohan-pherones/orbit-council-server)
+- [Front-End Repository](https://github.com/sudip08122000/Orbit-Council-Client/tree/main)
+- [Back-End Repository](https://github.com/sudip08122000/Orbit-Council-Server/edit/main)
